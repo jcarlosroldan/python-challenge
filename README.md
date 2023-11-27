@@ -8,4 +8,4 @@ Requirements:
 * [Requests](http://docs.python-requests.org/en/master/) module
 * [PIL](http://www.pythonware.com/products/pil/) module
 
-You can find my explanation (in Spanish) to the solutions in https://jcarlosroldan.com/post/100/.
+You can find my explanation to the solutions in https://jcarlosroldan.com/post/100/.
